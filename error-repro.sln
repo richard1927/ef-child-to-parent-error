@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "error-repro", "error-repro\error-repro.csproj", "{0EEE211A-E03F-47FB-B56B-AEE13479644E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEE211A-E03F-47FB-B56B-AEE13479644E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEE211A-E03F-47FB-B56B-AEE13479644E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEE211A-E03F-47FB-B56B-AEE13479644E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEE211A-E03F-47FB-B56B-AEE13479644E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
